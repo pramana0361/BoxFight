@@ -1,0 +1,52 @@
+{
+    "folders": [
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/Ora-Tron/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BoxFight/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/Ora-Tron/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BoxFight/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/Ora-Tron/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BoxFight/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/Ora-Tron/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/BoxFight/Fortnite"
+        },
+        {
+            "name": "BoxFight",
+            "path": "C:/Users/Ora-Tron/Documents/Fortnite Projects/BoxFight/Plugins/BoxFight/Content"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

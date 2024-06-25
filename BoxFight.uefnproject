@@ -1,0 +1,47 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "BoxFight",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "30.20",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "BoxFight",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 2,
+			"maxTeamCount": 2,
+			"maxTeamSize": 2,
+			"maxSocialPartySize": 2,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		},
+		"experimental":
+		{
+		}
+	},
+	"bindings":
+	{
+		"projectId": "8e60c177-4149-39ab-2065-ea877c4b0b35",
+		"projectVersePath": "",
+		"modules":
+		{
+			"BoxFight": "7d18b93d-42e7-aac1-f65b-e8bfa00ec434"
+		}
+	}
+}
